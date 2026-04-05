@@ -1,10 +1,4 @@
-This is a perfect description to start your **README.md** file. As a research scholar, a clean and professional README is essential for your GitHub repository to explain your project to others.
-
-Here is a complete, emoji-rich README designed specifically for your **Cloud-Based Bus Pass System**.
-
----
-
-# 🚌 Cloud-Based Bus Pass System ☁️
+🚌 Cloud-Based Bus Pass System ☁️
 
 ### 🛡️ Secure | ⚡ Scalable | 🤖 Automated
 
